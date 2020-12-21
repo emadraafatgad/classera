@@ -1,0 +1,2 @@
+# classera
+for classera addons
